@@ -14,12 +14,6 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Sheet
-S 1350 950  1750 2400
-U 5CB104CE
-F0 "EKG" 50
-F1 "EKG.sch" 50
-$EndSheet
-$Sheet
 S 3700 950  1800 2400
 U 5CB104E6
 F0 "Connections" 50
@@ -149,4 +143,10 @@ F 3 "~" H 6150 6950 50  0001 C CNN
 	1    6150 6950
 	1    0    0    -1  
 $EndComp
+$Sheet
+S 1350 950  1750 2400
+U 5CB104CE
+F0 "EKG" 50
+F1 "EKG.sch" 50
+$EndSheet
 $EndSCHEMATC
