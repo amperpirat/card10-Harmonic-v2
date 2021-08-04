@@ -1,0 +1,11 @@
+(sym_lib_table
+  (lib (name SK9822)(type Legacy)(uri C:/Users/mail/Desktop/card10-Harmonic-v2/libs/SK9822.lib)(options "")(descr ""))
+  (lib (name amphenol)(type Legacy)(uri C:/Users/mail/Desktop/card10-Harmonic-v2/libs/amphenol.lib)(options "")(descr ""))
+  (lib (name 0.96_IPS_display_china)(type Legacy)(uri C:/Users/mail/Desktop/card10-Harmonic-v2/libs/0.96_IPS_display_china.lib)(options "")(descr ""))
+  (lib (name 2019-04-06_11-17-32)(type Legacy)(uri C:/Users/mail/Desktop/card10-Harmonic-v2/libs/2019-04-06_11-17-32.lib)(options "")(descr ""))
+  (lib (name 2019-05-04_19-03-31)(type Legacy)(uri C:/Users/mail/Desktop/card10-Harmonic-v2/libs/2019-05-04_19-03-31.lib)(options "")(descr ""))
+  (lib (name MAX86150)(type Legacy)(uri C:/Users/mail/Desktop/card10-Harmonic-v2/libs/MAX86150.lib)(options "")(descr ""))
+  (lib (name badge)(type Legacy)(uri C:/Users/mail/Desktop/card10-Harmonic-v2/libs/badge.lib)(options "")(descr ""))
+  (lib (name BSS215)(type Legacy)(uri C:/Users/mail/Desktop/card10-Harmonic-v2/libs/BSS215.lib)(options "")(descr ""))
+  (lib (name NXP-PCAL6408)(type Legacy)(uri C:/Users/mail/Desktop/card10-Harmonic-v2/libs/NXP-PCAL6408.lib)(options "")(descr ""))
+)
