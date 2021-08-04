@@ -8,4 +8,6 @@
   (lib (name badge)(type Legacy)(uri C:/Users/mail/Desktop/card10-Harmonic-v2/libs/badge.lib)(options "")(descr ""))
   (lib (name BSS215)(type Legacy)(uri C:/Users/mail/Desktop/card10-Harmonic-v2/libs/BSS215.lib)(options "")(descr ""))
   (lib (name NXP-PCAL6408)(type Legacy)(uri C:/Users/mail/Desktop/card10-Harmonic-v2/libs/NXP-PCAL6408.lib)(options "")(descr ""))
+  (lib (name 687106182122)(type Legacy)(uri C:/Users/mail/Desktop/card10-Harmonic-v2/libs/687106182122.lib)(options "")(descr ""))
+  (lib (name LT1935)(type Legacy)(uri C:/Users/mail/Desktop/card10-Harmonic-v2/libs/LT1935.lib)(options "")(descr ""))
 )
